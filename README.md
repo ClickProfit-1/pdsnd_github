@@ -20,3 +20,5 @@ README.md
 ### Credits
 Udacity
 
+### Me
+Im David
