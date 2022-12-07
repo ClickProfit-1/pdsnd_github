@@ -4,7 +4,7 @@
 12-7-2022
 
 ### Project Title
-pdsnd_github
+Git BikePy
 
 ### Description
 This project shows my level of competency when using Git. 
