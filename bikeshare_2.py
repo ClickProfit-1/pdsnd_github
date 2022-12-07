@@ -72,8 +72,6 @@ def load_data(city, month, day):
         df = df[df['st_day'] == day.title()]
     return df
 
-#Delete This:
-#df = load_data('chicago', 'march', 'tuesday')
 
 def time_stats(df):
     """Displays statistics on the most frequent times of travel."""
