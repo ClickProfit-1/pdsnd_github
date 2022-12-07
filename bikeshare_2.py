@@ -171,7 +171,7 @@ def main():
         station_stats(df)
         trip_duration_stats(df)
         user_stats(df)
-        raw_data = input('See 5 Lines of Raw Data? Type Yes or No:').lower()
+        raw_data = input('Want to see 5 Lines of Raw Data? Type Yes or No:').lower()
         raw_count = 1
         while raw_data == 'yes':
             r = range(0, len(df), 5)
